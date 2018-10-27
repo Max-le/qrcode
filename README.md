@@ -10,7 +10,7 @@ The folder VirtualENV1 contains a virtual environment with thoses packages insta
 To get into this virtual environment, the file "activate" must be executed : 
 ```
 source path\to\activate
-``
+```
 For example : 
 ```
 source /Users/max/Documents/GitHub/qrcode/VirtualENV1/bin/activate 
