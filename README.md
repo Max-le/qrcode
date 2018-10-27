@@ -12,3 +12,8 @@ To get into this virtual environment, the file "activate" must be executed :
 source path\to\activate
 
 '''
+
+For example : 
+```
+source /Users/max/Documents/GitHub/qrcode/V1/bin/activate 
+```
