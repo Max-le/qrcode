@@ -10,3 +10,4 @@ To get into this virtual environment, the file "activate" must be executed :
 ```
 source path\to\activate
 ```
+One in the environment, you should see (V1) before every command.
