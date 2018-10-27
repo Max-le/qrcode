@@ -1,8 +1,9 @@
 # qrcode
-Python code to generate QR codes
+Python code to generate QR codes.
 
 
 Require the python packages qrcode and pillow.
+Documentation : https://pypi.org/project/qrcode/
 
 The folder V1 contains a virtual environment with thoses packages installed. ( Why bother with that ? http://bit.ly/2qfyVwf )
 
