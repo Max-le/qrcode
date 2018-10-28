@@ -18,6 +18,13 @@ source /Users/max/Documents/GitHub/qrcode/VirtualENV1/bin/activate
 
 Once in the environment, you should see (VirtualENV1) before every command.
 
+Get there faster from Terminal : 
+
+```
+source /Users/max/Documents/GitHub/qrcode/VirtualENV1/bin/activate 
+cd /Users/max/Documents/GitHub/qrcode
+```
+
 
 ### Create a QR code for WIFI-login 
 
